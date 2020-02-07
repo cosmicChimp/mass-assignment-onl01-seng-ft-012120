@@ -7,3 +7,5 @@ class Person
   
   
 end
+
+person = Person.new(avi_attributes)
