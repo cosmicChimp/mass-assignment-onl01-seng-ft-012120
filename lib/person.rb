@@ -21,6 +21,7 @@ class Person
       :pant_length => "32",
       :pant_width => "32"
     }
+  end
   
 end
 
